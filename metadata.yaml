@@ -1,11 +1,16 @@
 _repo: A-Text-book-of-Tanning-A-treatise-on-the-conversion-of-skins-into-leather-both-practical-and-__56601
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56601-h/images/cover.jpg
 creator:
   author:
     agent_name: Procter, Henry R.
     gutenberg_agent_id: '48938'
     url: http://www.gutenberg.org/2009/agents/48938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56601#A-Text-book-of-Tanning-A-treatise-on-the-conversion-of-skins-into-leather-both-practical-and-_
 gutenberg_issued: '2018-02-19'
 gutenberg_type: Text
 identifiers:
